@@ -1,0 +1,17 @@
+{
+  "name": "@backlight-dev/gq-ws.sass-kvchjk2j",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve aLjnkPdhNRm3l94FhYLi --open"
+  },
+  "devDependencies": {
+    "lit-html": "^1.4.1"
+  },
+  "dependencies": {
+    "@divriots/dockit-core": "^0.1.9"
+  }
+}
